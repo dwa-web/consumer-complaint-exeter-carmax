@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Main project page -->
   <url>
     <loc>https://dwa-web.github.io/consumer-complaint-exeter-carmax/</loc>
     <lastmod>2026-01-03</lastmod>
     <changefreq>never</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <!-- Consumer Complaint PDF -->
+  <url>
+    <loc>https://dwa-web.github.io/consumer-complaint-exeter-carmax/Consumer_Complaint_Exeter_CarMax_Alter_Ego_Shell_Entity_By_Dwayne_Wafford.pdf</loc>
+    <lastmod>2026-01-03</lastmod>
+    <changefreq>never</changefreq>
+    <priority>1.0</priority>
   </url>
 
 </urlset>
